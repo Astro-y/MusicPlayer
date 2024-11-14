@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/about.png</file>
+        <file>imgs/background.png</file>
+        <file>imgs/clear.png</file>
+        <file>imgs/cloud.png</file>
+        <file>imgs/cloud-white.png</file>
+        <file>imgs/exit-small-window.png</file>
+        <file>imgs/favorite-big.png</file>
+        <file>imgs/favorite-big-white.png</file>
+        <file>imgs/full-screen.png</file>
+        <file>imgs/grid.png</file>
+        <file>imgs/history.png</file>
+        <file>imgs/history-white.png</file>
+        <file>imgs/loading.png</file>
+        <file>imgs/local.png</file>
+        <file>imgs/local-white.png</file>
+        <file>imgs/minimize-screen.png</file>
+        <file>imgs/music.ico</file>
+        <file>imgs/music.png</file>
+        <file>imgs/network-error.png</file>
+        <file>imgs/player.jpg</file>
+        <file>imgs/play-list.png</file>
+        <file>imgs/play-list-white.png</file>
+        <file>imgs/power.png</file>
+        <file>imgs/recommend.png</file>
+        <file>imgs/recommend-white.png</file>
+        <file>imgs/search.png</file>
+        <file>imgs/small-screen.png</file>
+        <file>imgs/small-screen-white.png</file>
+        <file>imgs/small-window.png</file>
+        <file>imgs/video.png</file>
+        <file>imgs/video-white.png</file>
+        <file>imgs/volume.png</file>
+        <file>imgs/volume0.png</file>
+        <file>imgs/next.png</file>
+        <file>imgs/previous.png</file>
+        <file>imgs/pause.png</file>
+        <file>imgs/stop.png</file>
+        <file>imgs/favorite.png</file>
+        <file>imgs/single-repeat.png</file>
+        <file>imgs/random.png</file>
+        <file>imgs/repeat.png</file>
+        <file>imgs/set.png</file>
+        <file>imgs/player1.png</file>
+    </qresource>
+</RCC>
